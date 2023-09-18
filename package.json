@@ -5,12 +5,12 @@
   "description": "Editor inspector for markdown files",
   "unity": "2018.4",
   "author": {
-    "name": "Gwaredd, Oleksandr Tokar",
-    "email": "gwaredd@hotmail.com",
-    "url": "https://github.com/gwaredd/UnityMarkdownViewer"
+    "name": "Oleksandr Tokar",
+    "email": "#",
+    "url": "https://github.com/Tokars/UnityMarkdownViewer"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gwaredd/UnityMarkdownViewer.git"
+    "url": "git@github.com:Tokars/UnityMarkdownViewer.git"
   }
 }
