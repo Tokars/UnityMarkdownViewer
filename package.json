@@ -1,11 +1,11 @@
 {
-  "name": "com.mischief.markdownviewer",
-  "version": "1.0.7",
-  "displayName": "Unity Markdown Viewer",
+  "name": "dev.markdownviewer",
+  "version": "1.0.8",
+  "displayName": "Markdown Viewer",
   "description": "Editor inspector for markdown files",
   "unity": "2018.4",
   "author": {
-    "name": "Gwaredd",
+    "name": "Gwaredd, Oleksandr Tokar",
     "email": "gwaredd@hotmail.com",
     "url": "https://github.com/gwaredd/UnityMarkdownViewer"
   },
